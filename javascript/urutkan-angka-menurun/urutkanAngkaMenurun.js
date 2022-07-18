@@ -1,3 +1,3 @@
 module.exports = (n) => {
-  return parseInt(n.toString().split("").sort().reverse().join(""));
+  return n;
 };

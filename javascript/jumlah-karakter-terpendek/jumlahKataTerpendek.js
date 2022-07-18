@@ -1,6 +1,5 @@
 const karakterKataTerpendek = (s) => {
-  const r = s.split(' ').map((item) => item.length);
-  return Math.min(...r);
+  return s;
 }
 
 module.exports = karakterKataTerpendek;
