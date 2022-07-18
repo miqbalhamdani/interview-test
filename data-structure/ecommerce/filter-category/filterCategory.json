@@ -1,0 +1,5 @@
+[
+  { "name": "men", "qty": 4 },
+  { "name": "woman", "qty": 4 },
+  { "name": "children", "qty": 5 }
+]
